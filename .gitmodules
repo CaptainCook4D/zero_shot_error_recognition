@@ -1,0 +1,6 @@
+[submodule "timechat"]
+	path = timechat
+	url = https://github.com/bhavyaalekhya/evaluation_suite.git
+[submodule "video_llava"]
+	path = video_llava
+	url = https://github.com/bhavyaalekhya/Video-LLaVA.git
